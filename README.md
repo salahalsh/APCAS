@@ -25,7 +25,7 @@ APCAS is a comprehensive Python-based framework for automated polymer constructi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/apcas.git
+git clone https://github.com/salahalsh/apcas.git
 cd apcas
 
 # Create and activate conda environment
@@ -37,7 +37,7 @@ conda activate apcas-env
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/apcas.git
+git clone https://github.com/salahalsh/apcas.git
 cd apcas
 
 # Install dependencies
