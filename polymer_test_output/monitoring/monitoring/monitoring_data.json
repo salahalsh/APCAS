@@ -1,0 +1,1707 @@
+{
+  "metrics_history": [
+    {
+      "step": 1,
+      "timestamp": "2024-12-30T02:58:55.996405",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 8,
+        "num_bonds": 7,
+        "molecular_weight": 60.021129368,
+        "rotatable_bonds": 1,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 2,
+        "tpsa": 37.3,
+        "strain_energy": -17.355479067873596,
+        "total_energy": -17.355479067873596,
+        "end_to_end_distance": 3.261614170716643,
+        "radius_of_gyration": 1.643208539903138,
+        "structure_density": 1.0390030703503668
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 3.261614170716643,
+          "threshold": 5.25
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "timestamp": "2024-12-30T02:58:56.101992",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 14,
+        "num_bonds": 13,
+        "molecular_weight": 118.026608672,
+        "rotatable_bonds": 3,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 4,
+        "tpsa": 63.599999999999994,
+        "strain_energy": 2.9913268311059475,
+        "total_energy": 2.9913268311059475,
+        "end_to_end_distance": 6.041285516604862,
+        "radius_of_gyration": 2.416200830909682,
+        "structure_density": 1.1324321525944119
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 6.041285516604862,
+          "threshold": 9.75
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "timestamp": "2024-12-30T02:58:56.231786",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 20,
+        "num_bonds": 19,
+        "molecular_weight": 176.03208797599999,
+        "rotatable_bonds": 5,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 6,
+        "tpsa": 89.89999999999999,
+        "strain_energy": 15.688076464820913,
+        "total_energy": 15.688076464820913,
+        "end_to_end_distance": 7.401350922615854,
+        "radius_of_gyration": 3.0979007717233547,
+        "structure_density": 1.167941135721868
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 7.401350922615854,
+          "threshold": 14.25
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "timestamp": "2024-12-30T02:58:56.412306",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 26,
+        "num_bonds": 25,
+        "molecular_weight": 234.03756728,
+        "rotatable_bonds": 7,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 8,
+        "tpsa": 116.2,
+        "strain_energy": 31.60132334255406,
+        "total_energy": 31.60132334255406,
+        "end_to_end_distance": 11.106252484588369,
+        "radius_of_gyration": 4.163078597211334,
+        "structure_density": 1.1898440602757552
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 11.106252484588369,
+          "threshold": 18.75
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "timestamp": "2024-12-30T02:58:56.642900",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 32,
+        "num_bonds": 31,
+        "molecular_weight": 292.0430465840003,
+        "rotatable_bonds": 9,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 10,
+        "tpsa": 142.5,
+        "strain_energy": 47.21738566429263,
+        "total_energy": 47.21738566429263,
+        "end_to_end_distance": 14.397079508634377,
+        "radius_of_gyration": 5.237814105849332,
+        "structure_density": 1.2047582859641606
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 14.397079508634377,
+          "threshold": 23.25
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "timestamp": "2024-12-30T02:58:56.953897",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 38,
+        "num_bonds": 37,
+        "molecular_weight": 350.0485258880003,
+        "rotatable_bonds": 11,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 12,
+        "tpsa": 168.79999999999998,
+        "strain_energy": 62.13459028372379,
+        "total_energy": 62.13459028372379,
+        "end_to_end_distance": 14.53107014394131,
+        "radius_of_gyration": 4.82059528229623,
+        "structure_density": 1.2077302162848476
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 14.53107014394131,
+          "threshold": 27.75
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "timestamp": "2024-12-30T02:58:57.314368",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 44,
+        "num_bonds": 43,
+        "molecular_weight": 408.0540051920003,
+        "rotatable_bonds": 13,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 14,
+        "tpsa": 195.09999999999997,
+        "strain_energy": 75.20386340751523,
+        "total_energy": 75.20386340751523,
+        "end_to_end_distance": 20.077771162251285,
+        "radius_of_gyration": 6.657883260836204,
+        "structure_density": 1.21566210612994
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 20.077771162251285,
+          "threshold": 32.25
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "timestamp": "2024-12-30T02:58:57.732243",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 50,
+        "num_bonds": 49,
+        "molecular_weight": 466.0594844960003,
+        "rotatable_bonds": 15,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 16,
+        "tpsa": 221.39999999999995,
+        "strain_energy": 94.73859392071823,
+        "total_energy": 94.73859392071823,
+        "end_to_end_distance": 18.31156427596062,
+        "radius_of_gyration": 6.213561571138696,
+        "structure_density": 1.2190298297133297
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.31156427596062,
+          "threshold": 36.75
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "timestamp": "2024-12-30T02:58:58.207922",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 56,
+        "num_bonds": 55,
+        "molecular_weight": 524.0649638000003,
+        "rotatable_bonds": 17,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 18,
+        "tpsa": 247.69999999999993,
+        "strain_energy": 108.11143706307996,
+        "total_energy": 108.11143706307996,
+        "end_to_end_distance": 14.42010890582774,
+        "radius_of_gyration": 5.589101080079154,
+        "structure_density": 1.2249774758307315
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 14.42010890582774,
+          "threshold": 41.25
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "timestamp": "2024-12-30T02:58:58.719615",
+      "current_monomer": "GLY",
+      "metrics": {
+        "num_atoms": 62,
+        "num_bonds": 61,
+        "molecular_weight": 582.0704431040004,
+        "rotatable_bonds": 19,
+        "ring_count": 0,
+        "hbond_donors": 1,
+        "hbond_acceptors": 20,
+        "tpsa": 273.99999999999994,
+        "strain_energy": 125.78775455615094,
+        "total_energy": 125.78775455615094,
+        "end_to_end_distance": 24.353410001601432,
+        "radius_of_gyration": 7.588387616273049,
+        "structure_density": 1.225267006635008
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 24.353410001601432,
+          "threshold": 45.75
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "timestamp": "2024-12-30T02:58:59.540627",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 72,
+        "num_bonds": 71,
+        "molecular_weight": 670.0864870920007,
+        "rotatable_bonds": 23,
+        "ring_count": 0,
+        "hbond_donors": 2,
+        "hbond_acceptors": 23,
+        "tpsa": 320.53,
+        "strain_energy": 192.09117108929627,
+        "total_energy": 192.09117108929627,
+        "end_to_end_distance": 7.2721125943333105,
+        "radius_of_gyration": 6.848367215884871,
+        "structure_density": 1.225558722459581
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 7.2721125943333105,
+          "threshold": 53.25
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "timestamp": "2024-12-30T02:59:00.390994",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 82,
+        "num_bonds": 81,
+        "molecular_weight": 758.1025310800009,
+        "rotatable_bonds": 27,
+        "ring_count": 0,
+        "hbond_donors": 3,
+        "hbond_acceptors": 26,
+        "tpsa": 367.06,
+        "strain_energy": 234.7411074510013,
+        "total_energy": 234.7411074510013,
+        "end_to_end_distance": 29.110373179807837,
+        "radius_of_gyration": 9.050123289458199,
+        "structure_density": 1.2257669402656883
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 29.110373179807837,
+          "threshold": 60.75
+        }
+      ]
+    },
+    {
+      "step": 13,
+      "timestamp": "2024-12-30T02:59:01.448893",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 92,
+        "num_bonds": 91,
+        "molecular_weight": 846.1185750680011,
+        "rotatable_bonds": 31,
+        "ring_count": 0,
+        "hbond_donors": 4,
+        "hbond_acceptors": 29,
+        "tpsa": 413.59000000000003,
+        "strain_energy": 287.3410131463204,
+        "total_energy": 287.3410131463204,
+        "end_to_end_distance": 3.4500380175795113,
+        "radius_of_gyration": 5.151006628405032,
+        "structure_density": 1.2274542381391744
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 3.4500380175795113,
+          "threshold": 68.25
+        }
+      ]
+    },
+    {
+      "step": 14,
+      "timestamp": "2024-12-30T02:59:02.454849",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 102,
+        "num_bonds": 101,
+        "molecular_weight": 934.1346190560013,
+        "rotatable_bonds": 35,
+        "ring_count": 0,
+        "hbond_donors": 5,
+        "hbond_acceptors": 32,
+        "tpsa": 460.12000000000006,
+        "strain_energy": 320.6584607239988,
+        "total_energy": 320.6584607239988,
+        "end_to_end_distance": 10.970974363427512,
+        "radius_of_gyration": 5.258519263044404,
+        "structure_density": 1.2247540605838128
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 10.970974363427512,
+          "threshold": 75.75
+        }
+      ]
+    },
+    {
+      "step": 15,
+      "timestamp": "2024-12-30T02:59:03.728812",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 112,
+        "num_bonds": 111,
+        "molecular_weight": 1022.1506630440015,
+        "rotatable_bonds": 39,
+        "ring_count": 0,
+        "hbond_donors": 6,
+        "hbond_acceptors": 35,
+        "tpsa": 506.6500000000001,
+        "strain_energy": 371.88915104053393,
+        "total_energy": 371.88915104053393,
+        "end_to_end_distance": 30.02408691687313,
+        "radius_of_gyration": 10.5640388516745,
+        "structure_density": 1.2244023390112329
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 30.02408691687313,
+          "threshold": 83.25
+        }
+      ]
+    },
+    {
+      "step": 16,
+      "timestamp": "2024-12-30T02:59:05.339601",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 122,
+        "num_bonds": 121,
+        "molecular_weight": 1110.1667070320013,
+        "rotatable_bonds": 43,
+        "ring_count": 0,
+        "hbond_donors": 7,
+        "hbond_acceptors": 38,
+        "tpsa": 553.1800000000002,
+        "strain_energy": 410.5968225699642,
+        "total_energy": 410.5968225699642,
+        "end_to_end_distance": 5.694581671954231,
+        "radius_of_gyration": 6.233565125567065,
+        "structure_density": 1.2261290920408572
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 5.694581671954231,
+          "threshold": 90.75
+        }
+      ]
+    },
+    {
+      "step": 17,
+      "timestamp": "2024-12-30T02:59:07.761161",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 132,
+        "num_bonds": 131,
+        "molecular_weight": 1198.1827510200012,
+        "rotatable_bonds": 47,
+        "ring_count": 0,
+        "hbond_donors": 8,
+        "hbond_acceptors": 41,
+        "tpsa": 599.7100000000003,
+        "strain_energy": 458.551518195664,
+        "total_energy": 458.551518195664,
+        "end_to_end_distance": 18.63786308911737,
+        "radius_of_gyration": 7.310601393920572,
+        "structure_density": 1.2248652148605226
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.63786308911737,
+          "threshold": 98.25
+        }
+      ]
+    },
+    {
+      "step": 18,
+      "timestamp": "2024-12-30T02:59:09.747106",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 142,
+        "num_bonds": 141,
+        "molecular_weight": 1286.198795008001,
+        "rotatable_bonds": 51,
+        "ring_count": 0,
+        "hbond_donors": 9,
+        "hbond_acceptors": 44,
+        "tpsa": 646.2400000000004,
+        "strain_energy": 506.12356896391515,
+        "total_energy": 506.12356896391515,
+        "end_to_end_distance": 15.686291177983204,
+        "radius_of_gyration": 7.323031477767742,
+        "structure_density": 1.2259319789240923
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 15.686291177983204,
+          "threshold": 105.75
+        }
+      ]
+    },
+    {
+      "step": 19,
+      "timestamp": "2024-12-30T02:59:13.825819",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 152,
+        "num_bonds": 151,
+        "molecular_weight": 1374.214838996001,
+        "rotatable_bonds": 55,
+        "ring_count": 0,
+        "hbond_donors": 10,
+        "hbond_acceptors": 47,
+        "tpsa": 692.7700000000004,
+        "strain_energy": 533.3221760214858,
+        "total_energy": 533.3221760214858,
+        "end_to_end_distance": 11.563404573176838,
+        "radius_of_gyration": 6.9094404054417655,
+        "structure_density": 1.22506992593319
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 11.563404573176838,
+          "threshold": 113.25
+        }
+      ]
+    },
+    {
+      "step": 20,
+      "timestamp": "2024-12-30T02:59:16.252212",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 162,
+        "num_bonds": 161,
+        "molecular_weight": 1462.2308829840008,
+        "rotatable_bonds": 59,
+        "ring_count": 0,
+        "hbond_donors": 11,
+        "hbond_acceptors": 50,
+        "tpsa": 739.3000000000005,
+        "strain_energy": 607.6129204596995,
+        "total_energy": 607.6129204596995,
+        "end_to_end_distance": 12.255296379344962,
+        "radius_of_gyration": 6.571514415841254,
+        "structure_density": 1.225913910319526
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 12.255296379344962,
+          "threshold": 120.75
+        }
+      ]
+    },
+    {
+      "step": 21,
+      "timestamp": "2024-12-30T02:59:19.054555",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 172,
+        "num_bonds": 171,
+        "molecular_weight": 1550.2469269720007,
+        "rotatable_bonds": 63,
+        "ring_count": 0,
+        "hbond_donors": 12,
+        "hbond_acceptors": 53,
+        "tpsa": 785.8300000000006,
+        "strain_energy": 630.2621090108732,
+        "total_energy": 630.2621090108732,
+        "end_to_end_distance": 18.29903884130742,
+        "radius_of_gyration": 7.447540185306994,
+        "structure_density": 1.2235417129475874
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.29903884130742,
+          "threshold": 128.25
+        }
+      ]
+    },
+    {
+      "step": 22,
+      "timestamp": "2024-12-30T02:59:23.521227",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 182,
+        "num_bonds": 181,
+        "molecular_weight": 1638.2629709600005,
+        "rotatable_bonds": 67,
+        "ring_count": 0,
+        "hbond_donors": 13,
+        "hbond_acceptors": 56,
+        "tpsa": 832.3600000000007,
+        "strain_energy": 762.0095165251469,
+        "total_energy": 762.0095165251469,
+        "end_to_end_distance": 11.680649000242813,
+        "radius_of_gyration": 6.650178243856522,
+        "structure_density": 1.2227230036242918
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 11.680649000242813,
+          "threshold": 135.75
+        }
+      ]
+    },
+    {
+      "step": 23,
+      "timestamp": "2024-12-30T02:59:28.620600",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 192,
+        "num_bonds": 191,
+        "molecular_weight": 1726.2790149480004,
+        "rotatable_bonds": 71,
+        "ring_count": 0,
+        "hbond_donors": 14,
+        "hbond_acceptors": 59,
+        "tpsa": 878.8900000000008,
+        "strain_energy": 758.5530382116688,
+        "total_energy": 758.5530382116688,
+        "end_to_end_distance": 19.218754172261256,
+        "radius_of_gyration": 7.675752101436172,
+        "structure_density": 1.2253263802554173
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 19.218754172261256,
+          "threshold": 143.25
+        }
+      ]
+    },
+    {
+      "step": 24,
+      "timestamp": "2024-12-30T02:59:33.251682",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 202,
+        "num_bonds": 201,
+        "molecular_weight": 1814.2950589360003,
+        "rotatable_bonds": 75,
+        "ring_count": 0,
+        "hbond_donors": 15,
+        "hbond_acceptors": 62,
+        "tpsa": 925.4200000000009,
+        "strain_energy": 774.0179071248933,
+        "total_energy": 774.0179071248933,
+        "end_to_end_distance": 38.02775440380212,
+        "radius_of_gyration": 15.727450681609772,
+        "structure_density": 1.2820278600937267
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 38.02775440380212,
+          "threshold": 150.75
+        }
+      ]
+    },
+    {
+      "step": 25,
+      "timestamp": "2024-12-30T02:59:39.617622",
+      "current_monomer": "LLAC",
+      "metrics": {
+        "num_atoms": 212,
+        "num_bonds": 211,
+        "molecular_weight": 1902.3111029240001,
+        "rotatable_bonds": 79,
+        "ring_count": 0,
+        "hbond_donors": 16,
+        "hbond_acceptors": 65,
+        "tpsa": 971.950000000001,
+        "strain_energy": 827.5706323894635,
+        "total_energy": 827.5706323894635,
+        "end_to_end_distance": 18.825852472006453,
+        "radius_of_gyration": 7.499161544531475,
+        "structure_density": 1.2242644692658187
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.825852472006453,
+          "threshold": 158.25
+        }
+      ]
+    },
+    {
+      "step": 26,
+      "timestamp": "2024-12-30T02:59:46.145020",
+      "current_monomer": "BRANCH",
+      "metrics": {
+        "num_atoms": 224,
+        "num_bonds": 223,
+        "molecular_weight": 1992.342796976,
+        "rotatable_bonds": 85,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 68,
+        "tpsa": 1021.640000000001,
+        "strain_energy": 865.2553089225202,
+        "total_energy": 865.2553089225202,
+        "end_to_end_distance": 20.00105588890186,
+        "radius_of_gyration": 7.488682780790023,
+        "structure_density": 1.2235031841080033
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 20.00105588890186,
+          "threshold": 167.25
+        }
+      ]
+    },
+    {
+      "step": 27,
+      "timestamp": "2024-12-30T02:59:51.301632",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 242,
+        "num_bonds": 241,
+        "molecular_weight": 2106.410876535987,
+        "rotatable_bonds": 91,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 70,
+        "tpsa": 1047.940000000001,
+        "strain_energy": 865.6649564997249,
+        "total_energy": 865.6649564997249,
+        "end_to_end_distance": 17.179761469852515,
+        "radius_of_gyration": 8.481619405979778,
+        "structure_density": 1.2076271353149919
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 17.179761469852515,
+          "threshold": 180.75
+        }
+      ]
+    },
+    {
+      "step": 28,
+      "timestamp": "2024-12-30T02:59:57.132117",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 260,
+        "num_bonds": 259,
+        "molecular_weight": 2220.4789560959757,
+        "rotatable_bonds": 97,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 72,
+        "tpsa": 1074.240000000001,
+        "strain_energy": 987.4204724737117,
+        "total_energy": 987.4204724737117,
+        "end_to_end_distance": 6.316266168131417,
+        "radius_of_gyration": 7.423670306392763,
+        "structure_density": 1.1959921125153374
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 6.316266168131417,
+          "threshold": 194.25
+        }
+      ]
+    },
+    {
+      "step": 29,
+      "timestamp": "2024-12-30T03:00:05.479120",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 278,
+        "num_bonds": 277,
+        "molecular_weight": 2334.547035655974,
+        "rotatable_bonds": 103,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 74,
+        "tpsa": 1100.5400000000009,
+        "strain_energy": 862.7784276443041,
+        "total_energy": 862.7784276443041,
+        "end_to_end_distance": 8.889161237568395,
+        "radius_of_gyration": 7.64737368493659,
+        "structure_density": 1.1836072985479484
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 8.889161237568395,
+          "threshold": 207.75
+        }
+      ]
+    },
+    {
+      "step": 30,
+      "timestamp": "2024-12-30T03:00:26.681835",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 296,
+        "num_bonds": 295,
+        "molecular_weight": 2448.6151152159723,
+        "rotatable_bonds": 109,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 76,
+        "tpsa": 1126.8400000000008,
+        "strain_energy": 898.2858322418404,
+        "total_energy": 898.2858322418404,
+        "end_to_end_distance": 10.506611089103913,
+        "radius_of_gyration": 7.592480894715833,
+        "structure_density": 1.1748555382902717
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 10.506611089103913,
+          "threshold": 221.25
+        }
+      ]
+    },
+    {
+      "step": 31,
+      "timestamp": "2024-12-30T03:00:36.026315",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 314,
+        "num_bonds": 313,
+        "molecular_weight": 2562.6831947759706,
+        "rotatable_bonds": 115,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 78,
+        "tpsa": 1153.1400000000008,
+        "strain_energy": 865.9003706117757,
+        "total_energy": 865.9003706117757,
+        "end_to_end_distance": 6.866673752153611,
+        "radius_of_gyration": 8.14992813265014,
+        "structure_density": 1.164512995615823
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 6.866673752153611,
+          "threshold": 234.75
+        }
+      ]
+    },
+    {
+      "step": 32,
+      "timestamp": "2024-12-30T03:00:54.551617",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 332,
+        "num_bonds": 331,
+        "molecular_weight": 2676.751274335969,
+        "rotatable_bonds": 121,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 80,
+        "tpsa": 1179.4400000000007,
+        "strain_energy": 981.886030754952,
+        "total_energy": 981.886030754952,
+        "end_to_end_distance": 5.1422080855003305,
+        "radius_of_gyration": 9.082915932466792,
+        "structure_density": 1.1571998066410367
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 5.1422080855003305,
+          "threshold": 248.25
+        }
+      ]
+    },
+    {
+      "step": 33,
+      "timestamp": "2024-12-30T03:01:07.357171",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 350,
+        "num_bonds": 349,
+        "molecular_weight": 2790.819353895967,
+        "rotatable_bonds": 127,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 82,
+        "tpsa": 1205.7400000000007,
+        "strain_energy": 927.2153250291534,
+        "total_energy": 927.2153250291534,
+        "end_to_end_distance": 23.578396148014562,
+        "radius_of_gyration": 8.633040763578602,
+        "structure_density": 1.148269853021806
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 23.578396148014562,
+          "threshold": 261.75
+        }
+      ]
+    },
+    {
+      "step": 34,
+      "timestamp": "2024-12-30T03:01:34.503195",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 368,
+        "num_bonds": 367,
+        "molecular_weight": 2904.8874334559655,
+        "rotatable_bonds": 133,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 84,
+        "tpsa": 1232.0400000000006,
+        "strain_energy": 850.1503249168477,
+        "total_energy": 850.1503249168477,
+        "end_to_end_distance": 19.926257465630027,
+        "radius_of_gyration": 8.844369064120963,
+        "structure_density": 1.1425732744138488
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 19.926257465630027,
+          "threshold": 275.25
+        }
+      ]
+    },
+    {
+      "step": 35,
+      "timestamp": "2024-12-30T03:01:57.444224",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 378,
+        "num_bonds": 377,
+        "molecular_weight": 2992.903477443965,
+        "rotatable_bonds": 137,
+        "ring_count": 0,
+        "hbond_donors": 18,
+        "hbond_acceptors": 87,
+        "tpsa": 1267.5700000000006,
+        "strain_energy": 1086.3621219584957,
+        "total_energy": 1086.3621219584957,
+        "end_to_end_distance": 19.90311191100381,
+        "radius_of_gyration": 9.092225682394853,
+        "structure_density": 1.146446276340372
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 19.90311191100381,
+          "threshold": 282.75
+        }
+      ]
+    },
+    {
+      "step": 36,
+      "timestamp": "2024-12-30T03:02:20.693458",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 388,
+        "num_bonds": 387,
+        "molecular_weight": 3080.9195214319648,
+        "rotatable_bonds": 141,
+        "ring_count": 0,
+        "hbond_donors": 19,
+        "hbond_acceptors": 90,
+        "tpsa": 1314.1000000000006,
+        "strain_energy": 1198.9039556925784,
+        "total_energy": 1198.9039556925784,
+        "end_to_end_distance": 2.618547546281409,
+        "radius_of_gyration": 8.398732391718015,
+        "structure_density": 1.1499504031955958
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 2.618547546281409,
+          "threshold": 290.25
+        }
+      ]
+    },
+    {
+      "step": 37,
+      "timestamp": "2024-12-30T03:02:48.639683",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 398,
+        "num_bonds": 397,
+        "molecular_weight": 3168.9355654199644,
+        "rotatable_bonds": 145,
+        "ring_count": 0,
+        "hbond_donors": 20,
+        "hbond_acceptors": 93,
+        "tpsa": 1360.6300000000006,
+        "strain_energy": 1017.3352010063107,
+        "total_energy": 1017.3352010063107,
+        "end_to_end_distance": 7.190411654751099,
+        "radius_of_gyration": 8.82365646397726,
+        "structure_density": 1.14917433478532
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 7.190411654751099,
+          "threshold": 297.75
+        }
+      ]
+    },
+    {
+      "step": 38,
+      "timestamp": "2024-12-30T03:03:32.931608",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 408,
+        "num_bonds": 407,
+        "molecular_weight": 3256.951609407964,
+        "rotatable_bonds": 149,
+        "ring_count": 0,
+        "hbond_donors": 21,
+        "hbond_acceptors": 96,
+        "tpsa": 1407.1600000000005,
+        "strain_energy": 1362.294144952221,
+        "total_energy": 1362.294144952221,
+        "end_to_end_distance": 14.81760672991703,
+        "radius_of_gyration": 8.857841929369593,
+        "structure_density": 1.154230282961778
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 14.81760672991703,
+          "threshold": 305.25
+        }
+      ]
+    },
+    {
+      "step": 39,
+      "timestamp": "2024-12-30T03:04:02.441249",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 418,
+        "num_bonds": 417,
+        "molecular_weight": 3344.9676533959637,
+        "rotatable_bonds": 153,
+        "ring_count": 0,
+        "hbond_donors": 22,
+        "hbond_acceptors": 99,
+        "tpsa": 1453.6900000000005,
+        "strain_energy": 1384.7292989397884,
+        "total_energy": 1384.7292989397884,
+        "end_to_end_distance": 15.729608363256059,
+        "radius_of_gyration": 9.202028086348676,
+        "structure_density": 1.1589649851969681
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 15.729608363256059,
+          "threshold": 312.75
+        }
+      ]
+    },
+    {
+      "step": 40,
+      "timestamp": "2024-12-30T03:05:00.747806",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 428,
+        "num_bonds": 427,
+        "molecular_weight": 3432.9836973839633,
+        "rotatable_bonds": 157,
+        "ring_count": 0,
+        "hbond_donors": 23,
+        "hbond_acceptors": 102,
+        "tpsa": 1500.2200000000005,
+        "strain_energy": 1343.5357740856093,
+        "total_energy": 1343.5357740856093,
+        "end_to_end_distance": 18.31627428368063,
+        "radius_of_gyration": 9.325994603949304,
+        "structure_density": 1.156540971790091
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.31627428368063,
+          "threshold": 320.25
+        }
+      ]
+    },
+    {
+      "step": 41,
+      "timestamp": "2024-12-30T03:05:27.998508",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 438,
+        "num_bonds": 437,
+        "molecular_weight": 3520.999741371963,
+        "rotatable_bonds": 161,
+        "ring_count": 0,
+        "hbond_donors": 24,
+        "hbond_acceptors": 105,
+        "tpsa": 1546.7500000000005,
+        "strain_energy": 1246.0880781789106,
+        "total_energy": 1246.0880781789106,
+        "end_to_end_distance": 3.26331098075671,
+        "radius_of_gyration": 9.176357382650076,
+        "structure_density": 1.1567137832500085
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 3.26331098075671,
+          "threshold": 327.75
+        }
+      ]
+    },
+    {
+      "step": 42,
+      "timestamp": "2024-12-30T03:05:54.909517",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 448,
+        "num_bonds": 447,
+        "molecular_weight": 3609.0157853599626,
+        "rotatable_bonds": 165,
+        "ring_count": 0,
+        "hbond_donors": 25,
+        "hbond_acceptors": 108,
+        "tpsa": 1593.2800000000004,
+        "strain_energy": 1505.185914644444,
+        "total_energy": 1505.185914644444,
+        "end_to_end_distance": 8.025681739887542,
+        "radius_of_gyration": 9.171480584451357,
+        "structure_density": 1.160840441381179
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 8.025681739887542,
+          "threshold": 335.25
+        }
+      ]
+    },
+    {
+      "step": 43,
+      "timestamp": "2024-12-30T03:06:27.351093",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 458,
+        "num_bonds": 457,
+        "molecular_weight": 3697.0318293479622,
+        "rotatable_bonds": 169,
+        "ring_count": 0,
+        "hbond_donors": 26,
+        "hbond_acceptors": 111,
+        "tpsa": 1639.8100000000004,
+        "strain_energy": 1479.5526187878843,
+        "total_energy": 1479.5526187878843,
+        "end_to_end_distance": 15.665305943659456,
+        "radius_of_gyration": 9.317709756280607,
+        "structure_density": 1.1609764017477495
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 15.665305943659456,
+          "threshold": 342.75
+        }
+      ]
+    },
+    {
+      "step": 44,
+      "timestamp": "2024-12-30T03:07:33.841226",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 468,
+        "num_bonds": 467,
+        "molecular_weight": 3785.047873335962,
+        "rotatable_bonds": 173,
+        "ring_count": 0,
+        "hbond_donors": 27,
+        "hbond_acceptors": 114,
+        "tpsa": 1686.3400000000004,
+        "strain_energy": 1492.070863409996,
+        "total_energy": 1492.070863409996,
+        "end_to_end_distance": 11.219616769622576,
+        "radius_of_gyration": 9.603089175052814,
+        "structure_density": 1.1610690268542394
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 11.219616769622576,
+          "threshold": 350.25
+        }
+      ]
+    },
+    {
+      "step": 45,
+      "timestamp": "2024-12-30T03:08:13.649203",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 478,
+        "num_bonds": 477,
+        "molecular_weight": 3873.0639173239615,
+        "rotatable_bonds": 177,
+        "ring_count": 0,
+        "hbond_donors": 28,
+        "hbond_acceptors": 117,
+        "tpsa": 1732.8700000000003,
+        "strain_energy": 1699.450626588543,
+        "total_energy": 1699.450626588543,
+        "end_to_end_distance": 18.164263666323976,
+        "radius_of_gyration": 9.313194841802417,
+        "structure_density": 1.1631884464299325
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.164263666323976,
+          "threshold": 357.75
+        }
+      ]
+    },
+    {
+      "step": 46,
+      "timestamp": "2024-12-30T03:10:22.362420",
+      "current_monomer": "DLAC",
+      "metrics": {
+        "num_atoms": 488,
+        "num_bonds": 487,
+        "molecular_weight": 3961.079961311961,
+        "rotatable_bonds": 181,
+        "ring_count": 0,
+        "hbond_donors": 29,
+        "hbond_acceptors": 120,
+        "tpsa": 1779.4000000000003,
+        "strain_energy": 1703.2362468042074,
+        "total_energy": 1703.2362468042074,
+        "end_to_end_distance": 13.341925505989018,
+        "radius_of_gyration": 9.626957943932481,
+        "structure_density": 1.1675288976910336
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 13.341925505989018,
+          "threshold": 365.25
+        }
+      ]
+    },
+    {
+      "step": 47,
+      "timestamp": "2024-12-30T03:12:32.112397",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 506,
+        "num_bonds": 505,
+        "molecular_weight": 4075.1480408719594,
+        "rotatable_bonds": 187,
+        "ring_count": 0,
+        "hbond_donors": 30,
+        "hbond_acceptors": 122,
+        "tpsa": 1816.7000000000003,
+        "strain_energy": 1483.1818806201513,
+        "total_energy": 1483.1818806201513,
+        "end_to_end_distance": 21.10562174449475,
+        "radius_of_gyration": 9.595559573668606,
+        "structure_density": 1.1582205492613686
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 21.10562174449475,
+          "threshold": 378.75
+        }
+      ]
+    },
+    {
+      "step": 48,
+      "timestamp": "2024-12-30T03:13:06.406091",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 524,
+        "num_bonds": 523,
+        "molecular_weight": 4189.216120432,
+        "rotatable_bonds": 193,
+        "ring_count": 0,
+        "hbond_donors": 30,
+        "hbond_acceptors": 124,
+        "tpsa": 1843.0000000000002,
+        "strain_energy": 1611.3522958443039,
+        "total_energy": 1611.3522958443039,
+        "end_to_end_distance": 17.692259225270114,
+        "radius_of_gyration": 9.61241103205435,
+        "structure_density": 1.155752952668716
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 17.692259225270114,
+          "threshold": 392.25
+        }
+      ]
+    },
+    {
+      "step": 49,
+      "timestamp": "2024-12-30T03:13:54.272731",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 542,
+        "num_bonds": 541,
+        "molecular_weight": 4303.284199992049,
+        "rotatable_bonds": 199,
+        "ring_count": 0,
+        "hbond_donors": 30,
+        "hbond_acceptors": 126,
+        "tpsa": 1869.3000000000002,
+        "strain_energy": 1423.8836345403242,
+        "total_energy": 1423.8836345403242,
+        "end_to_end_distance": 18.06582099602865,
+        "radius_of_gyration": 10.167924572298444,
+        "structure_density": 1.147760374767702
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 18.06582099602865,
+          "threshold": 405.75
+        }
+      ]
+    },
+    {
+      "step": 50,
+      "timestamp": "2024-12-30T03:15:16.021375",
+      "current_monomer": "CAP",
+      "metrics": {
+        "num_atoms": 560,
+        "num_bonds": 559,
+        "molecular_weight": 4417.35227955207,
+        "rotatable_bonds": 205,
+        "ring_count": 0,
+        "hbond_donors": 30,
+        "hbond_acceptors": 128,
+        "tpsa": 1895.6000000000001,
+        "strain_energy": 1525.4955344877749,
+        "total_energy": 1525.4955344877749,
+        "end_to_end_distance": 10.616487865225185,
+        "radius_of_gyration": 9.848479405529867,
+        "structure_density": 1.1464185076290492
+      },
+      "alerts": [
+        {
+          "type": "chain_folding",
+          "message": "Possible excessive chain folding",
+          "value": 10.616487865225185,
+          "threshold": 419.25
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 3.261614170716643,
+      "threshold": 5.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 6.041285516604862,
+      "threshold": 9.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 7.401350922615854,
+      "threshold": 14.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 11.106252484588369,
+      "threshold": 18.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 14.397079508634377,
+      "threshold": 23.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 14.53107014394131,
+      "threshold": 27.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 20.077771162251285,
+      "threshold": 32.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.31156427596062,
+      "threshold": 36.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 14.42010890582774,
+      "threshold": 41.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 24.353410001601432,
+      "threshold": 45.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 7.2721125943333105,
+      "threshold": 53.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 29.110373179807837,
+      "threshold": 60.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 3.4500380175795113,
+      "threshold": 68.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 10.970974363427512,
+      "threshold": 75.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 30.02408691687313,
+      "threshold": 83.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 5.694581671954231,
+      "threshold": 90.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.63786308911737,
+      "threshold": 98.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 15.686291177983204,
+      "threshold": 105.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 11.563404573176838,
+      "threshold": 113.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 12.255296379344962,
+      "threshold": 120.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.29903884130742,
+      "threshold": 128.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 11.680649000242813,
+      "threshold": 135.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 19.218754172261256,
+      "threshold": 143.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 38.02775440380212,
+      "threshold": 150.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.825852472006453,
+      "threshold": 158.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 20.00105588890186,
+      "threshold": 167.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 17.179761469852515,
+      "threshold": 180.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 6.316266168131417,
+      "threshold": 194.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 8.889161237568395,
+      "threshold": 207.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 10.506611089103913,
+      "threshold": 221.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 6.866673752153611,
+      "threshold": 234.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 5.1422080855003305,
+      "threshold": 248.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 23.578396148014562,
+      "threshold": 261.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 19.926257465630027,
+      "threshold": 275.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 19.90311191100381,
+      "threshold": 282.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 2.618547546281409,
+      "threshold": 290.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 7.190411654751099,
+      "threshold": 297.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 14.81760672991703,
+      "threshold": 305.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 15.729608363256059,
+      "threshold": 312.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.31627428368063,
+      "threshold": 320.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 3.26331098075671,
+      "threshold": 327.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 8.025681739887542,
+      "threshold": 335.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 15.665305943659456,
+      "threshold": 342.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 11.219616769622576,
+      "threshold": 350.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.164263666323976,
+      "threshold": 357.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 13.341925505989018,
+      "threshold": 365.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 21.10562174449475,
+      "threshold": 378.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 17.692259225270114,
+      "threshold": 392.25
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 18.06582099602865,
+      "threshold": 405.75
+    },
+    {
+      "type": "chain_folding",
+      "message": "Possible excessive chain folding",
+      "value": 10.616487865225185,
+      "threshold": 419.25
+    }
+  ],
+  "timestamp": "2024-12-30T03:15:18.579637"
+}

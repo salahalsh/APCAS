@@ -1,0 +1,18 @@
+2024-12-30 02:39:15,229 - polymer_analytics - INFO - Analytics system initialized
+2024-12-30 02:39:15,230 - polymer_analytics - INFO - Output directory: polymer_test_output\analytics
+2024-12-30 02:39:15,230 - polymer_analytics - INFO - Log files: polymer_test_output\analytics\logs\analytics.log, polymer_test_output\analytics\analytics.log
+2024-12-30 02:56:29,471 - polymer_analytics - INFO - Analytics system initialized
+2024-12-30 02:56:29,471 - polymer_analytics - INFO - Output directory: polymer_test_output\analytics
+2024-12-30 02:56:29,472 - polymer_analytics - INFO - Log files: polymer_test_output\analytics\logs\analytics.log, polymer_test_output\analytics\analytics.log
+2024-12-30 02:58:41,058 - polymer_analytics - INFO - Analytics system initialized
+2024-12-30 02:58:41,061 - polymer_analytics - INFO - Output directory: polymer_test_output\analytics
+2024-12-30 02:58:41,062 - polymer_analytics - INFO - Log files: polymer_test_output\analytics\logs\analytics.log, polymer_test_output\analytics\analytics.log
+2024-12-30 02:58:55,906 - polymer_analytics - INFO - Analytics system initialized
+2024-12-30 02:58:55,907 - polymer_analytics - INFO - Output directory: polymer_test_output\analytics
+2024-12-30 02:58:55,907 - polymer_analytics - INFO - Log files: polymer_test_output\analytics\logs\analytics.log, polymer_test_output\analytics\analytics.log
+2024-12-30 03:22:05,899 - polymer_analytics - ERROR - Structure loading error: 'dict' object has no attribute 'exists'
+2024-12-30 03:22:05,903 - polymer_analytics - ERROR - Analysis failed: Failed to load polymer structure
+2024-12-30 08:26:30,734 - __main__ - INFO - Analytics system initialized
+2024-12-30 08:26:30,734 - __main__ - INFO - Output directory: polymer_test_output\analytics
+2024-12-30 08:26:30,734 - __main__ - INFO - Log files: polymer_test_output\analytics\logs\analytics.log, polymer_test_output\analytics\analytics.log
+2024-12-30 08:26:30,734 - __main__ - INFO - Validating PDB file: polymer_test_output\polymer\polymer.pdb
