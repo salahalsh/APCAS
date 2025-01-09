@@ -1,0 +1,18 @@
+# Monomer definitions
+# Format: MONOMER_NAME: SMILES_STRING
+# Connection points marked with '*' atoms
+
+# Biodegradable block copolymer monomers
+CAPRO: *OC(=O)CCCCC(CC)O*
+PEG3: *OCCOCCOCCO*
+LA: *OC(=O)C(C)O*
+BDO: *OCCCO*
+TMC: *OC(=O)OCCO*
+
+# Sequence defines block structure
+[SEQUENCE]
+15, CAPRO  
+2, PEG3
+20, LA
+1, BDO
+12, TMC
