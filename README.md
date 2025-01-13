@@ -1,7 +1,7 @@
-# APCAS
-# APCAS: Automated Polymer Construction and Analysis System
+# APPAS
+# APPAS: Automated Polymer Construction and Analysis System
 
-APCAS is a comprehensive Python-based framework for automated polymer construction and analysis, providing tools for monomer processing, polymer building, and detailed structural analysis.
+APPAS is a comprehensive Python-based framework for automated co-polymer construction and analysis, providing tools for monomer processing, polymer building, and detailed structural analysis.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
